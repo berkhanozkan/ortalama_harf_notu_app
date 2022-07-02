@@ -1,6 +1,6 @@
 # ortalama_hesapla
 
-A new Flutter project.
+Test Flutter Project
 
 ## Getting Started
 
